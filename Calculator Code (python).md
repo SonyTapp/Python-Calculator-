@@ -2,7 +2,7 @@ import math
 result = 0  # Initialize the sum total
 calc = ''   # Initialize the list of sums shown 
 
-print('--------------------------')
+print('--------------------------') 
 print('Welcome!')
 print('--------------------------')
 print('Table of Mathematical Operations:')
